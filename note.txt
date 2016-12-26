@@ -1,0 +1,1 @@
+>wsimport -s . -p org.nina.wscli http://127.0.0.1:9090/WS_Server1/Webservice1?wsdl
